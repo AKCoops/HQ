@@ -1,2 +1,2 @@
 # HQ
-Head Quarters Server for Community Chest
+Head Quarters Server for Community Chest. Contains Moov.io code for ACH, check imaging and OFAC compliance.
